@@ -1,11 +1,11 @@
 module.exports = {
+    base: '/documents/',
     title: '他山之东',
     description: 'itdong',
     head: [
         ['link', { rel: 'icon', href: '/avator.png' }]
     ],
     themeConfig: {
-        base: '/documents/',
         repo: 'izxd/documents',
         nav: [
             { text: 'Home', link: '/' },
