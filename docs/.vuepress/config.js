@@ -5,7 +5,7 @@ module.exports = {
         ['link', { rel: 'icon', href: '/avator.png' }]
     ],
     themeConfig: {
-        base: 'documents',
+        base: '/documents/',
         repo: 'izxd/documents',
         nav: [
             { text: 'Home', link: '/' },
